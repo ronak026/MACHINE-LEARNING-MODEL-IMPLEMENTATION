@@ -1,4 +1,16 @@
-# Task 4 — Spam Email Detection using Machine Learning
+# Spam Email Detection using Machine Learning
+
+"Company":CODTECH IT SOLUTIONS
+
+"Name": Ronak Vekariya
+
+"Intern ID":CT04DR535
+
+"Domain":Python Programing
+
+"Duration":4 Weeks
+
+"Mentor":Neela Santosh
 
 A comprehensive machine learning project that implements multiple classification models using scikit-learn to detect spam emails. This project demonstrates the complete machine learning pipeline from data preprocessing to model evaluation and visualization.
 
@@ -24,6 +36,31 @@ A comprehensive machine learning project that implements multiple classification
 - `visualizer.py`: Visualization and plotting module
 - `requirements.txt`: Python dependencies
 - `README.md`: This file
+
+## Images
+<img width="1919" height="1078" alt="Screenshot 2025-11-15 100212" src="https://github.com/user-attachments/assets/8adef877-b1de-4a05-ade3-44d2b9d5260c" />
+
+<img width="<img width="1214" height="463" alt="Screenshot 2025-11-15 100416" src="https://github.com/user-attachments/assets/b578aff2-3993-4b25-8614-6c7391fa2325" />
+
+<img width="1216" height="929" alt="Screenshot 2025-11-15 100353" src="https://github.com/user-attachments/assets/02044249-e524-4a90-b944-d2b231e37218" />
+
+<img width="1215" height="920" alt="Screenshot 2025-11-15 100337" src="https://github.com/user-attachments/assets/26438866-c9c1-4fac-8bea-b3be86c497f5" />
+
+<img width="1221" height="930" alt="Screenshot 2025-11-15 100320" src="https://github.com/user-attachments/assets/8d32c8ed-95b6-43cd-b94d-ddab0412d5b2" />
+
+<img width="1214" height="959" alt="Screenshot 2025-11-15 100302" src="https://github.com/user-attachments/assets/60c58239-1c78-4468-8063-52f21c9c99ec" />
+
+<img width="1919" height="1079" alt="Screenshot 2025-11-15 100225" src="https://github.com/user-attachments/assets/d9184a7d-7013-4667-8ae4-165ce44dda2e" />
+
+1918" height="1079" alt="Screenshot 2025-11-15 100157" src="https://github.com/user-attachments/assets/cbf603f7-1730-492e-96e7-4eeb342db1ee" />
+
+<img width="1919" height="1079" alt="Screenshot 2025-11-15 100141" src="https://github.com/user-attachments/assets/e300e973-ae57-474e-9125-096c4236a8a0" />
+
+<img width="1214" height="523" alt="Screenshot 2025-11-15 100125" src="https://github.com/user-attachments/assets/0875f7bf-8edd-4aae-85c2-d0d04ac2e045" />
+
+<img width="1214" height="695" alt="Screenshot 2025-11-15 085758" src="https://github.com/user-attachments/assets/16a65ab6-026c-48b8-b01a-cf7ce8799faa" />
+
+
 
 ## Prerequisites
 
