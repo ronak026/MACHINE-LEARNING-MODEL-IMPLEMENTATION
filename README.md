@@ -40,7 +40,7 @@ A comprehensive machine learning project that implements multiple classification
 ## Images
 <img width="1919" height="1078" alt="Screenshot 2025-11-15 100212" src="https://github.com/user-attachments/assets/8adef877-b1de-4a05-ade3-44d2b9d5260c" />
 
-<img width="<img width="1214" height="463" alt="Screenshot 2025-11-15 100416" src="https://github.com/user-attachments/assets/b578aff2-3993-4b25-8614-6c7391fa2325" />
+<img width="1214" height="463" alt="Screenshot 2025-11-15 100416" src="https://github.com/user-attachments/assets/b578aff2-3993-4b25-8614-6c7391fa2325" />
 
 <img width="1216" height="929" alt="Screenshot 2025-11-15 100353" src="https://github.com/user-attachments/assets/02044249-e524-4a90-b944-d2b231e37218" />
 
@@ -52,7 +52,7 @@ A comprehensive machine learning project that implements multiple classification
 
 <img width="1919" height="1079" alt="Screenshot 2025-11-15 100225" src="https://github.com/user-attachments/assets/d9184a7d-7013-4667-8ae4-165ce44dda2e" />
 
-1918" height="1079" alt="Screenshot 2025-11-15 100157" src="https://github.com/user-attachments/assets/cbf603f7-1730-492e-96e7-4eeb342db1ee" />
+<img width="1918" height="1079" alt="Screenshot 2025-11-15 100157" src="https://github.com/user-attachments/assets/cbf603f7-1730-492e-96e7-4eeb342db1ee" />
 
 <img width="1919" height="1079" alt="Screenshot 2025-11-15 100141" src="https://github.com/user-attachments/assets/e300e973-ae57-474e-9125-096c4236a8a0" />
 
